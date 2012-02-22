@@ -10,8 +10,9 @@ Group:            Sciences/Mathematics
 License:          Artistic-2.0
 URL:              http://bioconductor.org/packages/release/bioc/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-Requires:         R-methods R-biomaRt R-grid 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods R-biomaRt R-grid
+Requires:         R-methods R-biomaRt R-grid
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-methods R-biomaRt R-grid
 
 %description
 Genomic data analyses requires integrated visualization of known genomic
