@@ -3,7 +3,7 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          1.14.0
+Version:          1.18.0
 Release:          1
 Summary:          Plotting genomic information from Ensembl
 Group:            Sciences/Mathematics
