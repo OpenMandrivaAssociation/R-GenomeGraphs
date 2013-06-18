@@ -4,7 +4,7 @@
 
 Name:             R-%{packname}
 Version:          1.18.0
-Release:          1
+Release:          2
 Summary:          Plotting genomic information from Ensembl
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
